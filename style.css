@@ -63,7 +63,7 @@ h3 {
 p {
   margin-bottom: 10px;
 }
-a#linkssecond{
+#linkssecond{
     display: none;
 }
 @media (max-width: 600px) {
@@ -77,7 +77,7 @@ a#linkssecond{
     width: 100%;
     height: auto;
   }
-  a#linkssecond{
+  #linkssecond{
     display: block;
   }
   section#links{
